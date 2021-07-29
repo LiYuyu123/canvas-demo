@@ -1,3 +1,2 @@
-# canvas-demo
-预览画板
+# 预览地址
 [https://liyuyu123.github.io/canvas-demo/]
